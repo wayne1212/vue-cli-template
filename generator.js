@@ -7,8 +7,11 @@ module.exports = (api, options) => {
       lint: "vue-cli-service lint"
     },
     dependencies: {
+      axios: "^0.19.0",
       "core-js": "^3.3.2",
-      vue: "^2.6.10"
+      vue: "^2.6.10",
+      "vue-router": "^3.1.3",
+      vuex: "^3.0.1"
     },
     devDependencies: {
       "@vue/cli-plugin-babel": "^4.0.0",

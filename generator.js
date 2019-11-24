@@ -16,6 +16,8 @@ module.exports = (api, options) => {
     devDependencies: {
       "@vue/cli-plugin-babel": "^4.0.0",
       "@vue/cli-plugin-eslint": "^4.0.0",
+      "@vue/cli-plugin-router": "^4.0.5",
+      "@vue/cli-plugin-vuex": "^4.0.5",
       "@vue/cli-service": "^4.0.0",
       "@vue/eslint-config-standard": "^4.0.0",
       "babel-eslint": "^10.0.3",

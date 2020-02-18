@@ -35,3 +35,10 @@ settings.json
   ]
 }
 ```
+prettier.config.js
+```script
+export default{
+    semi:false,
+    singleQuote:true
+}
+```
